@@ -1,0 +1,23 @@
+camera_matrix:
+  cols: 3
+  data: [336.3323572122784, 0.0, 327.46173820063854, 0.0, 338.40104843076784, 214.5823036317266,
+    0.0, 0.0, 1.0]
+  rows: 3
+camera_name: pabonbot/camera_node
+distortion_coefficients:
+  cols: 5
+  data: [-0.3029185282435741, 0.07803064051237431, 0.003969550476731313, -0.0008114964182294034,
+    0.0]
+  rows: 1
+distortion_model: plumb_bob
+image_height: 480
+image_width: 640
+projection_matrix:
+  cols: 4
+  data: [248.17730712890625, 0.0, 326.51636415853864, 0.0, 0.0, 274.7030334472656,
+    206.02490091682375, 0.0, 0.0, 0.0, 1.0, 0.0]
+  rows: 3
+rectification_matrix:
+  cols: 3
+  data: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+  rows: 3
